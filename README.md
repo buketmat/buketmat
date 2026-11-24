@@ -1,6 +1,6 @@
 # Hi, I'm Buket 👋
 
-I get things done. I build agentic AI workflows, do the research, and ship digital products.
+I build agentic AI workflows that do real work: research, writing, publishing. Claude Code skills, plugins, and the digital products they ship.
 
 ## What I'm building
 
